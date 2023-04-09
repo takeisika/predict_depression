@@ -2,8 +2,6 @@
 <p> demo video (thumbnail unavailable on ios occasionally)</p>
 <video src="https://user-images.githubusercontent.com/78842284/230759884-d367c71e-5f6c-440e-8e64-22dff475da68.mp4" playsinline autoplay muted loop></video>
 
-Judith Johnson. “Case study clinical example CBT: First session with a client with symptoms of depression (CBT model)” https://youtu.be/7LD8iC4NqXM. Oct 23, 2014
-
 <h2> Approach </h2>
 <p> 1- A subject who gets assessed for depression answers regular questions </p>
 <p> 2- Analyze the obtained audio data of their reaction with this system </p>
