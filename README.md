@@ -15,4 +15,4 @@ Judith Johnson. “Case study clinical example CBT: First session with a client 
 <p> ・A depressed individual tends to speak slower </p>
 <p> => Calculate WPM (words per minutes) in the audio data </p>
 <p> ・A depressed individual tends to speak monotonously </p>
-<p> => Caluculate voice tone by examining frequency dispersion of between 100~2000Hz (human vocal range) in the audio data</p>
+<p> => Caluculate voice tone by examining frequency dispersion of between 80~250Hz (human vocal range) in the audio data</p>
