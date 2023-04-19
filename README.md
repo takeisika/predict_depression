@@ -2,6 +2,9 @@
 <p> demo video (thumbnail unavailable on ios occasionally)</p>
 <video src="https://user-images.githubusercontent.com/78842284/230759884-d367c71e-5f6c-440e-8e64-22dff475da68.mp4" playsinline autoplay muted loop></video>
 
+<h2> Challenge </h2>
+Depression is becoming an increasingly prevalent issue around the world. Two primary obstacles are delayed detection and treatment of depression, as well as the absence of quantitative diagnostic methods.
+
 <h2> Approach </h2>
 <p> 1- A subject who gets assessed for depression answers regular questions </p>
 <p> 2- Analyze the obtained audio data of their reaction with this system </p>
