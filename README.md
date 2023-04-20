@@ -3,13 +3,15 @@
 <video src="https://user-images.githubusercontent.com/78842284/230759884-d367c71e-5f6c-440e-8e64-22dff475da68.mp4" playsinline autoplay muted loop></video>
 
 <h1>Function</h1>
-<p>Symptomatic tendencies of depression</p>
-<p>・The use of specific words</p>
-<h3>---> Calculate the percentage of absolutist, negative, and first person words spoken</h3>
-<p>・Slow speech</p>
-<h3>---> Measure words per minute (WPM)</h3>
-<p>・Monotonous speech</p>
-<h3>---> Examine frequency dispersion between 80~250Hz (human vocal range)</h3>
+<h3>・Calculate the percentage of absolutist, negative, and first person words spoken</h3>
+<p>-> To detect symptomatic tendencies of depression: the use of specific words</p>
+<h3>・Measure words per minute (WPM)</h3>
+<p>-> To detect symptomatic tendencies of depression: slow speech</p>
+<h3>・Examine frequency dispersion between 80~250Hz (human vocal range)</h3>
+<p>-> To detect symptomatic tendencies of depression: monotonous speech</p>
+
+
+
 
 
 
