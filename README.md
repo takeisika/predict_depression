@@ -4,11 +4,11 @@
 
 <h1>Function</h1>
 <h3>・Calculate the percentage of absolutist, negative, and first person words spoken</h3>
-<p>-> To detect symptomatic tendencies of depression: the use of specific words</p>
+<p>-> To detect symptomatic tendencies of depression, the use of specific words</p>
 <h3>・Measure words per minute (WPM)</h3>
-<p>-> To detect symptomatic tendencies of depression: slow speech</p>
+<p>-> To detect symptomatic tendencies of depression, slow speech</p>
 <h3>・Examine frequency dispersion between 80~250Hz (human vocal range)</h3>
-<p>-> To detect symptomatic tendencies of depression: monotonous speech</p>
+<p>-> To detect symptomatic tendencies of depression, monotonous speech</p>
 
 
 
