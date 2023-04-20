@@ -2,24 +2,11 @@
 <p> demo video (thumbnail unavailable on ios occasionally)</p>
 <video src="https://user-images.githubusercontent.com/78842284/230759884-d367c71e-5f6c-440e-8e64-22dff475da68.mp4" playsinline autoplay muted loop></video>
 
-<h2> Challenge </h2>
-Depression is becoming an increasingly prevalent issue around the world. Two primary obstacles are delayed detection and treatment of depression, as well as the absence of quantitative diagnostic methods.
-
-<h2> Approach </h2>
-<p> 1- A subject who gets assessed for depression answers regular questions </p>
-<p> 2- Analyze the obtained audio data of their reaction with this system </p>
-<p> 3- By keeping track of the results, detect symptoms of depression earlier </p>
-
-<h2> Methodology </h2>
-<p> ・A depressed individual tends to use some specific vocabularies such as absolutist words, negative words and first person words. </p>
-<p> => Calculate what percentage those words are spoken in the audio data (by using the LIWC dictionary)</p>
-<p> ・A depressed individual tends to speak slower </p>
-<p> => Calculate WPM (words per minutes) in the audio data </p>
-<p> ・A depressed individual tends to speak monotonously </p>
-<p> => Caluculate voice tone by examining frequency dispersion of between 80~250Hz (human vocal range) in the audio data</p>
-
-
-
+<p> I aimed to tackle the worsening issue of depression by building a system based on the following methodology:</p>
+<p> (1) conducting routine questions to individuals being assessed for depression</p>
+<p> (2) analyzing the obtained audio data using my originally developed program that calculates the percentage of absolutist, negative, and first person words spoken (using the LIWC dictionary), measures words per minute (WPM), and examines frequency dispersion between 80~250Hz (human vocal range) to detect symptomatic tendencies of depression such as slow and monotonous speech and the use of specific words </p>
+<p> (3) tracking the results to facilitate earlier detection and treatment of depression.</p>
+<p> This approach addresses the primary obstacles of delayed identification and care of the condition and the lack of quantitative diagnostic methods. </p>
 
 
 
